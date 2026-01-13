@@ -512,3 +512,4 @@ with open("my_app", "wb") as f:
 
 os.chmod("my_app", 0o755)
 print("Created 'my_app'. Run it with ./my_app")
+
